@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/brunofacundo/ignews/master/public/images/avatar.svg" alt="IGNEWS" width="100px"/>
+    <img src="./public/images/avatar.svg" alt="IGNEWS" width="100px"/>
 </h1>
 
 <p align="center">
-IGNEWS
+<h3>IGNEWS</h3>
 
 <br />
 <br />
