@@ -2,12 +2,11 @@
     <img src="./public/images/avatar.svg" alt="IGNEWS" width="100px"/>
 </h1>
 
+<h3 align="center">IGNEWS</h3>
+
+<br/>
+
 <p align="center">
-<h3>IGNEWS</h3>
-
-<br />
-<br />
-
 <img alt="Repo size" src="https://img.shields.io/github/repo-size/brunofacundo/ignews"/>
 
 <a href="https://www.linkedin.com/in/brunofacundo">
@@ -19,7 +18,7 @@
 </a>
 </p>
 
----
+<br/>
 
 <h1 align="center">
     <img alt="Web app" src="./.github/image-01.png" width="500px" />
